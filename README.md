@@ -1,2 +1,2 @@
 # ChessEngine-JavaFX
-Pls no steal, especially you Kevin
+Pls no steal.. :I
