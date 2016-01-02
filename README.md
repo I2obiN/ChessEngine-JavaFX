@@ -1,6 +1,8 @@
 # ChessEngine-JavaFX
 
-You will need the chess piece images for the board and for the cursor, you can get them here; http://www.filedropper.com/chessimagesnew
+You will need the chess piece images for the board and for the cursor, you can get them here; 
+
+http://www.filedropper.com/chessimagesnew
 
 Object orientated event driven model, probably a lot of inefficient bits and pieces so feel free to make some pull requests
 
